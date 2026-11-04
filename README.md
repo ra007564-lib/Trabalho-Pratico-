@@ -9,7 +9,7 @@ Repositório com os trabalhos da disciplina de Gestão de Banco de Dados.
 ## Estrutura
 
 ```
-ra007564-lib/
+ra007564-lib/Trabalho-Pratico-
 └── bimestre02-2026/
     └── trabalho01/
         ├── script_trabalho01.sql
